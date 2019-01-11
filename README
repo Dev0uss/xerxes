@@ -5,3 +5,4 @@ Open Terminal and type these commands
 cd Desktop
 gcc xerxes.c -o xerxes
 USAGE : ./xerxes www.exemple.com 80
+.
